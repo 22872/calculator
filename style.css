@@ -1,0 +1,33 @@
+form{
+	width:440px;
+	padding:25px;
+	margin:auto;
+	border:15px solid black;
+    border-radius:15px 15px;
+    background-color: red;
+	}
+ 
+	input{
+	background:green;
+	color:rgb(252, 248, 248);
+	font-size:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:19px;
+	padding-right:19px;
+    margin:6px;
+    border-radius: 15px 15px;
+    
+	}
+    input:hover
+    {
+        background-color: rgb(122, 228, 255);
+    }
+    
+	h2{
+	text-align:center;
+	}
+ 
+	.sc{
+	background:rgb(250, 249, 249);
+	color:#000;}
